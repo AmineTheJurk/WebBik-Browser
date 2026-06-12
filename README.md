@@ -1,2 +1,2 @@
 THIS IS A BETA AM NOT MEAINGING OF ANY TYPE OF DESTRUCTION ON YOUR PHONE THE ONLY SAFE WAY TO TEST IS JUST DOWNLOAD THE APK VIA THE RELEASES AND CLICKING ON IT AND FOLLOW THE STEPS THAT IT SAYS
-WebBik is a simple web browser and is my first android project (Discontinued! Reason : i forgot to backup my android studio project and i installed linux than reinstalled windows 10 and i wiped the drive sorry! :( )
+WebBik is a simple web browser and is my first android project (Discontinued! Reason : i forgot to backup my android studio project and i installed linux than reinstalled windows 10 and i wiped the drive sorry! :( BUT am gonna start a new project called QTFileManager! )
